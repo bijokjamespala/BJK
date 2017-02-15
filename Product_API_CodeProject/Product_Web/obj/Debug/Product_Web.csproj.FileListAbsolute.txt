@@ -1,0 +1,13 @@
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\Product_Web.dll.config
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\Product_Web.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\Product_Web.pdb
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\obj\Debug\Product_Web.csprojResolveAssemblyReference.cache
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\obj\Debug\Product_Web.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\obj\Debug\Product_Web.pdb
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\Newtonsoft.Json.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\System.Net.Http.Formatting.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\System.Web.Cors.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\System.Web.Http.dll
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\Newtonsoft.Json.xml
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\System.Net.Http.Formatting.xml
+D:\Old projects\reference\Product_API_CodeProject\Product_Web\bin\System.Web.Http.xml
